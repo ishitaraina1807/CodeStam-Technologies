@@ -36,7 +36,7 @@ export default function Pillars() {
   ];
 
   return (
-    <div className="pillars px-4 sm:px-20">
+<div className="pillars px-4 sm:px-20">
       <div className="text-center pt-12">
         <h1 className="text-xl sm:text-lg font-semibold">Lorem Ipsum</h1>
         <h2 className="text-4xl sm:text-3xl mt-1 font-bold">OUR PILLARS</h2>
