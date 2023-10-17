@@ -1,5 +1,5 @@
 import './App.css';
-import Pillar from './components/pillar';
+import Pillar from './components/Pillar';
 
 function App() {
   return (
