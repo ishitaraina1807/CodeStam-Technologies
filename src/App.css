@@ -1,4 +1,6 @@
-.section{
-  height: max-content;
-  background-color: aquamarine;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body{
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(238, 237, 237);
 }
